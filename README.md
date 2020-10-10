@@ -7,10 +7,7 @@
 
 2) ```flutter run```
 
-3) For login use:
-email: ```milo@mail.com```
-
-password: ```qwerty```
+3) For login use: email: ```milo@mail.com``` password: ```qwerty```
 
 
 ## Project Tree
