@@ -3,18 +3,11 @@
 
 ## Get stated
 
-1)
+1) ```flutter pub get```
 
-```flutter pub get```
+2) ```flutter run```
 
-2)
-
-```flutter run```
-
-
-
-For login use:
-
+3) For login use:
 email: ```milo@mail.com```
 
 password: ```qwerty```
