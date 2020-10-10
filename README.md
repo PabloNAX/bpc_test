@@ -3,10 +3,13 @@
 
 ## Get stated
 
+
+
 For login use:
 
-email: milo@mail.com
-password: qwerty
+email: ```milo@mail.com```
+
+password: ```qwerty```
 
 
 ## Project Tree
