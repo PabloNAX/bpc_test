@@ -3,6 +3,14 @@
 
 ## Get stated
 
+1)
+
+```flutter pub get```
+
+2)
+
+```flutter run```
+
 
 
 For login use:
