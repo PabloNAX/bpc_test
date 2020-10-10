@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "874808408771",
+    "firebase_url": "https://bpc-test-88266.firebaseio.com",
+    "project_id": "bpc-test-88266",
+    "storage_bucket": "bpc-test-88266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874808408771:android:b8de46ecff3a4975330076",
+        "android_client_info": {
+          "package_name": "com.example.bpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874808408771-bt47bful46ftsqb4fhve243epodfhpdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCh0hddGKOiKmD0h1VSMIAGzRy31iopzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874808408771-bt47bful46ftsqb4fhve243epodfhpdm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874808408771-q83fk81a5l434bc5303rgq7l1jtu924b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bpc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
