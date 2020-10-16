@@ -9,6 +9,10 @@
 
 3) For login use: email: ```milo@mail.com``` password: ```qwerty```
 
+## Working Demo
+
+<img src="https://uikitty.net/wp-content/uploads/2020/10/ezgif.com-gif-maker.gif" width="340"/>
+
 
 ## Project Tree
 
